@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.jena:jena-elephas-io:3.0.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.jena/jena-elephas-io/jars/jena-elephas-io-3.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.jena/jena-elephas-io/docs/jena-elephas-io-3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.jena/jena-elephas-io/srcs/jena-elephas-io-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
